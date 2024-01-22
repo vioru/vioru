@@ -1,4 +1,4 @@
-Hi ,I'm Fernanda Villalba from Cartagena, Colombia. I'm a Full Stack Developer,Ux Designer, Fashion Designer, and Plastic Artist and I studying  English in virtual plataforms, I like to be learning something new every day.I’m interested in Frontend develop.
+Hi ,I'm Fernanda Villalba from Cartagena, Colombia. I'm a Full Stack Developer,Ux Designer and I studying  English in virtual plataforms, I like to be learning something new every day.I’m interested in Frontend develop.
 
     🔥 Languages: JavaScript and Phyton
     🔥 Front end: React,JSON, RESTful APIs, Bootstrap.
