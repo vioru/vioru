@@ -4,4 +4,4 @@ Hi ,I'm Fernanda Villalba from Cartagena, Colombia. I'm a Full Stack Developer,U
     🔥 Front end: React,JSON, RESTful APIs, Bootstrap.
     🔥 Back end: Node.js, Express, Flask, AWS, Socket.io, OOP.
     🔥 Databases: SQL (MySQL), NoSQL (MongoDB), Mongoose.
-    🔥 Others Software:Figma, Zbrush,Autodesk Maya, Photoshop, Corel, Optitex.
+    🔥 Others Software:Figma Photoshop, Corel.
